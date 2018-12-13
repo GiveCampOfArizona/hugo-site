@@ -23,13 +23,13 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "FAQ`"
+    name = "FAQ"
     url  = "/faq/"
     weight = 2
 
 [[menu.main]]
     name = "About"
-    url  = "/aboutus/"
+    url  = "/about/"
     weight = 4
 [[menu.main]]
     name = "Events"
