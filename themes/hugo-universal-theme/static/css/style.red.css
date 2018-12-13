@@ -1155,7 +1155,7 @@ fieldset[disabled] .btn-template-primary.active {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #da4d4d;
+  background: #dddddd;
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
@@ -1187,7 +1187,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
-  color: #fff;
+  color: #555555;
 }
 .home-carousel h1 {
   font-weight: 700;
