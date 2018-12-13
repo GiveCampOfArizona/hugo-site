@@ -1,4 +1,4 @@
-baseURL = "https://laughing-jackson-e41032.netlify.com"
+baseURL = "https://laughing-jackson-e41032.netlify.com/"
 title = "AZGiveCamp"
 
 theme = "hugo-universal-theme"
